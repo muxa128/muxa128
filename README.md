@@ -1,77 +1,75 @@
-<h1 align="center">Hi 👋, I'm muxa128</h1>
+<div align="center">
 
-<h3 align="center">💻 Frontend Developer • 🎨 Designer • 🚀 Creative Builder</h3>
+# 👋 Hi, I'm Muxammadzoxid
+
+### 💻 Frontend Developer | 🎨 Designer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+creating+websites;HTML+%7C+CSS+%7C+JavaScript;Design+%2B+Code+%3D+My+Passion" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 I'm learning **Frontend Development**
+- 🎨 I love **Web Design & UI**
+- 🌐 I create modern websites
+- 📚 Currently improving my coding skills
+- ⚡ My goal: become a professional developer
+
+---
+
+## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+websites+%F0%9F%92%BB;Learning+HTML+%7C+CSS+%7C+JavaScript;Turning+ideas+into+websites+%F0%9F%9A%80" />
-</p>
 
----
-
-## 👨‍💻 About Me
-
-* 💻 I'm learning **Frontend Development**
-* 🎨 I love **web design and creative interfaces**
-* 🌱 Currently learning **HTML, CSS & JavaScript**
-* 🚀 Building modern and responsive websites
-* ⚡ My goal: become a professional developer
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
 
 </p>
-
----
-
-## 🚀 My Projects
-
-### 🌐 CarMusc
-
-Automotive-themed website created from a Figma design.
-
-### 🛒 Xabibulayev Market
-
-E-commerce website concept with a modern marketplace interface.
-
-### 🎨 Positivus
-
-Landing page recreated from a Figma design.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=muxa128&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muxa128&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=muxa128&theme=tokyonight&hide_border=true" />
-</p>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+## 🌐 Connect With Me
 
-* 🚀 Improve my Frontend skills
-* 🎨 Create better UI/UX designs
-* 💻 Build more real-world projects
-* 📚 Learn JavaScript deeply
-* 🌟 Grow my GitHub portfolio
+<div align="center">
+
+<a href="https://github.com/muxa128">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<h3 align="center">⚡ Code. Create. Improve. Repeat. ⚡</h3>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=muxa128&style=for-the-badge&color=00F7FF" />
+
+</div>
